@@ -1,0 +1,6 @@
+
+<RCC>
+  <qresource prefix="meshrotationstep">
+    <file>images/fitting.png</file>
+  </qresource>
+</RCC>
