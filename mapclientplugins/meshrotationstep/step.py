@@ -75,6 +75,7 @@ class MeshRotationStep(WorkflowStepMountPoint):
 
         self._portData1 = self._define_output_location()
         region.writeFile(self._portData1)
+
         self._doneExecution()
 
     def _define_output_location(self):
